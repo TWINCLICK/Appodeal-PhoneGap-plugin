@@ -228,7 +228,6 @@
         <source-file src="libs/Android/appodeal-2.1.4.jar" target-dir="libs" />
         <source-file src="libs/Android/inmobi-6.2.3.jar" target-dir="libs" />
         <source-file src="libs/Android/picasso-2.5.2.jar" target-dir="libs" />
-        <source-file src="libs/Android/yandex-metrica-2.73.jar" target-dir="libs" />
     	<source-file src="libs/Android/startapp-3.6.2.jar" target-dir="libs" />
         <framework src="libs/Android/adcolony" custom="true" />
     </platform>
